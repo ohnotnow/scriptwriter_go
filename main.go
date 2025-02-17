@@ -84,7 +84,7 @@ func main() {
 			},
 		),
 		// Use a model that supports structured outputs.
-		Model: openai.F(openai.ChatModelGPT4o2024_08_06),
+		Model: openai.F(openai.ChatModelO3Mini),
 	})
 	if err != nil {
 		panic(err.Error())
