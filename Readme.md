@@ -44,7 +44,7 @@ Enter the requirements for the script: A Bash script that prints system informat
 #!/bin/bash
 echo "System Information:"
 uname -a
-```
+
 ### Script written to output.sh
 ```
 
